@@ -21,5 +21,9 @@ ARYA is a Python-based Railways Reservation System built with Tkinter GUI and de
 🧠 Purpose:
 Created as a school/college project, ARYA was built to raise the bar — integrating features often seen in real systems but rarely included in student-level projects. It became a reference for peers and was shared with students unable to build their own, while you moved ahead to create ARYA-MOTO as your next innovation.
 
+
+In order to make it function change the "system-path" with the path of the required file. where ever you have downloaded it followed by file name.
+you can ask if any issue is there doing it
+
 its a open-source school project you can use and re-design based on your ideas most of the functions are alrady present which are sufficient for any school based python project.
 --enjoy
